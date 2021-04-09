@@ -1,6 +1,6 @@
 # Udacity Data Science Capstone
 
-This is my repository for the Udacity Data Science Capstone. I decided to work on the Greate Energy Prediction competition on Kaggle.
+This is my repository for the Udacity Data Science Capstone. I decided to work on the [Greate Energy Prediction]https://www.kaggle.com/c/ashrae-energy-prediction/overview() competition on Kaggle.
 You can read my blogpost about the solution here.
 
 ### Introduction
@@ -10,10 +10,10 @@ In Greate Energy Prediction, the goal is to develop models that can predict the 
 ### Libraries
 
 The libraries needed to run the code are:
-- Pandas & Numpy for managing and working with data
-- Matplotlib & Seaborn for visualizing data
-- LightGBM for training Gradient Boosted Decision Trees
-- Tqdm for logging during training
+- [Pandas](https://pandas.pydata.org/) & [Numpy](https://numpy.org/) for managing and working with data
+- [Matplotlib](https://matplotlib.org/) & [Seaborn](https://seaborn.pydata.org/) for visualizing data
+- [LightGBM](https://lightgbm.readthedocs.io/en/latest/) for training Gradient Boosted Decision Trees
+- [Tqdm](https://github.com/tqdm/tqdm) for logging during training
 
 ### Code structure
 
