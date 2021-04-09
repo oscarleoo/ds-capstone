@@ -1,7 +1,7 @@
 # Udacity Data Science Capstone
 
 This is my repository for the Udacity Data Science Capstone. I decided to work on the [Greate Energy Prediction](https://www.kaggle.com/c/ashrae-energy-prediction/overview) competition on Kaggle.
-You can read my blogpost about the solution here.
+You can read my blogpost about the solution [here](https://oscarj9207.medium.com/predicting-future-energy-consumption-87736838feca).
 
 ### Introduction
 
