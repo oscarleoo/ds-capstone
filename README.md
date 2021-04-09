@@ -12,12 +12,15 @@ The libraries needed to run the code are:
 
 ## Code structure
 
-- GreatEnergyPrediction.ipnb
--- This is where I train the models
-- Preprocessing.ipnb
--- Going through details and ideas behind preprocessing
-- utils/load_data.py
-- utils/preprocessing.py
-- utils/plotting.py
+* GreatEnergyPrediction.ipnb
+  * This is where I train the models
+* Preprocessing.ipnb
+  * Going through details and ideas behind preprocessing
+* utils/load_data.py
+  * Helper functions for loading data 
+* utils/preprocessing.py
+  * Helper functions for preprocessing data
+* utils/plotting.py
+  * Helper functions for plotting data
 
 
