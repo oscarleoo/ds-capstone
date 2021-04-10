@@ -3,9 +3,12 @@
 This is my repository for the Udacity Data Science Capstone. I decided to work on the [Greate Energy Prediction](https://www.kaggle.com/c/ashrae-energy-prediction/overview) competition on Kaggle.
 You can read my blogpost about the solution [here](https://oscarj9207.medium.com/predicting-future-energy-consumption-87736838feca).
 
-### Introduction
+### Introduction & Problem
 
-In Greate Energy Prediction, the goal is to develop models that can predict the future energy consumption of buildings. The purpose is that better models allows property managers to compare energy consumptions after they've made changes to a probable comsumption without the changes based on historical data. Without those kinds of models in place, it's hard to know if the changes actually acomplished something.
+In Greate Energy Prediction, the goal is to develop models that can predict the future energy consumption of buildings. The purpose is that better models allows property managers to compare energy consumptions after they've made changes to a probable comsumption without the changes based on historical data.
+
+The problem is that it’s difficult to know how changes to a building affect its energy consumption since you never have data for both situations in the exact same conditions. There are many factors that can impact energy consumption depending on what type of building we’re talking about. Usage, weather, and size are the most obvious ones. How the different factors contribute becomes very complex when you’re looking at many different buildings, so machine learning comes in handy. We want to train one (or many) machine learning algorithm on historical data and see how well we can predict future energy consumption. Not just for a couple of weak, but for years! That’s exactly what we’re trying to do in this competition.
+
 
 ### Libraries
 
